@@ -2,7 +2,12 @@
 
 I developed an algorithm that could be used as part of a mobile or web app, which accepts any user-supplied image as input.  If a dog is detected in the image, it will provide an estimate of the dog's breed.  If a human is detected, it will provide an estimate of the dog breed that is most resembling.
 
-### Project Steps
+## Key Skills Demonstrated
+- Process the image data
+- Build and train a convolutional neural network
+- Use Transfer Learning
+
+## Project Steps
 
 * [Step 0](#step0): Import Datasets
 * [Step 1](#step1): Detect Humans
